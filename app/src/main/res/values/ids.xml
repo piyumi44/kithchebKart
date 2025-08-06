@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonDelete" type="id" />
+    <item name="textViewFoodDescription" type="id" />
+    <item name="fragment_title" type="id" />
+    <item name="recyclerViewBuyerOrders" type="id" />
+    <item name="tvForgotPasswordLink" type="id" />
+    <item name="nav_manage_products" type="id" />
+</resources>
