@@ -18,6 +18,32 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="85dp" />
 
+    <ImageView
+        android:id="@+id/myimage"
+        android:layout_width="116dp"
+        android:layout_height="112dp"
+        android:layout_marginBottom="208dp"
+        android:contentDescription="Image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/stringhoppers"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.054"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/myimage"
+        android:layout_width="116dp"
+        android:layout_height="112dp"
+        android:layout_marginBottom="84dp"
+        android:contentDescription="Image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/rotti"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.054"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <
 
 </androidx.constraintlayout.widget.ConstraintLayout>
